@@ -12,7 +12,7 @@ class bot(object):
     API_HASH = os.environ.get("API_HASH")
 
     # add API_TOKEN from @botfather (Mandatory)
-    API_TOKEN = os.environ.get("API_TOKEN")
+    API_TOKEN = os.environ.get("6830212442:AAHHR3kzTumQMCljabNo1iXLqNJ8QgmOwD4")
 
 class dm(object):
     # add admins Id list by space separated (Optional)
